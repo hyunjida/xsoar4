@@ -1,0 +1,21 @@
+{
+	"cacheVersn": 0,
+	"color": "#FBBA3B",
+	"definitionId": "ThreatIntelReport",
+	"detached": false,
+	"disabled": false,
+	"fromServerVersion": "",
+	"id": "ThreatIntelReport_hi",
+	"itemVersion": "",
+	"layout": "",
+	"locked": false,
+	"name": "hi",
+	"packID": "",
+	"packName": "",
+	"propagationLabels": [
+		"all"
+	],
+	"system": false,
+	"toServerVersion": "",
+	"version": -1
+}
